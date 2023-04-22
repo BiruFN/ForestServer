@@ -1,0 +1,124 @@
+{
+    "HotConfigData": [
+        {
+            "AppId": "certstageb",
+            "EpicApp": "FortniteCertStageB",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-certstageb-stage.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-certstageb-stage.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "certstagec",
+            "EpicApp": "FortniteCertStageC",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-certstagec-stage.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-certstagec-stage.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "nscert",
+            "EpicApp": "FortniteNSCert",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-nscert-stage.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-nscert-stage.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "nscert",
+            "EpicApp": "FortniteNSCert",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-nscert-stage.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-nscert-stage.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-nscert-stage.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "stage",
+            "EpicApp": "FortniteCertStage",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-stage.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-stage.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-stage.ol.epicgames.com"
+                    }
+                }
+            ]
+        }
+    ]
+}

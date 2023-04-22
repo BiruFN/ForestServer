@@ -1,0 +1,33 @@
+{
+    "changeType": "fullProfileUpdate",
+    "profile": {
+        "_id": "forestserver",
+        "created": "2023-01-01T00:00:00.000Z",
+        "updated": "2023-01-01T00:00:00.000Z",
+        "rvn": 1,
+        "wipeNumber": 1,
+        "accountId": "forestserver",
+        "profileId": "creative",
+        "version": "forestserver",
+        "items": {
+            "CreativePlot:temperate_medium": {
+                "templateId": "CreativePlot:temperate_medium",
+                "attributes": {
+                    "vk_project_id": "reativePlot:temperate_medium",
+                    "level": 1,
+                    "islandIndex": 1
+                },
+                "quantity": 1
+            }
+        },
+        "stats": {
+            "attributes": {
+                "max_island_plots": 50,
+                "permissions": [
+                    "fortnite:creative:beta:creatorportal"
+                ]
+            }
+        },
+        "commandRevision": 1
+    }
+}

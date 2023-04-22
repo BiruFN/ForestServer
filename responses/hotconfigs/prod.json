@@ -1,0 +1,2116 @@
+{
+    "HotConfigData": [
+        {
+            "AppId": "astro",
+            "EpicApp": "FortniteAstro",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-astro-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-astro-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-astro-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "athena",
+            "EpicApp": "FortniteAthena",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-athena-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-athena-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-athena-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "bacchusplaytest",
+            "EpicApp": "FortniteBacchusPlaytest",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-bacchusplaytest-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-bacchusplaytest-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "batsickle",
+            "EpicApp": "FortniteBatsickle",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-batsickle-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-batsickle-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "bluedailymaintesting",
+            "EpicApp": "FortniteBlueDailyMainTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-bluedailymaintesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-bluedailymaintesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "blueextqadevtesting",
+            "EpicApp": "FortniteBlueExtQADevTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-blueextqadevtesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-blueextqadevtesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "brawler",
+            "EpicApp": "FortniteBrawler",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-brawler-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-brawler-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-brawler-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "bubbles",
+            "EpicApp": "FortniteBubbles",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-bubbles-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-bubbles-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "buckler",
+            "EpicApp": "FortniteBuckler",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-buckler-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-buckler-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-buckler-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "burnout",
+            "EpicApp": "FortniteBurnout",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-burnout-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-burnout-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-burnout-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "carbon",
+            "EpicApp": "FortniteCarbon",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-carbon-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-carbon-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-carbon-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "checker",
+            "EpicApp": "FortniteChecker",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-checker-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-checker-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-checker-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "cipher",
+            "EpicApp": "FortniteCipher",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-cipher-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-cipher-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-cipher-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "dailymain",
+            "EpicApp": "FortniteDailyMain",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-dailymain-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-dailymain-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "dailyreleasea",
+            "EpicApp": "FortniteDailyReleaseA",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-dailyreleasea-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-dailyreleasea-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "dailyreleaseb",
+            "EpicApp": "FortniteDailyReleaseB",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-dailyreleaseb-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-dailyreleaseb-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "dailyreleasec",
+            "EpicApp": "FortniteDailyReleaseC",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-dailyreleasec-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-dailyreleasec-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "dazzle",
+            "EpicApp": "FortniteDazzle",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-dazzle-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-dazzle-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytest",
+            "EpicApp": "FortniteDevPlaytest",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytest-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytest-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestb",
+            "EpicApp": "FortniteDevPlaytestB",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestb-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestb-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestc",
+            "EpicApp": "FortniteDevPlaytestC",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestc-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestc-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestd",
+            "EpicApp": "FortniteDevPlaytestD",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestd-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestd-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplayteste",
+            "EpicApp": "FortniteDevPlaytestE",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplayteste-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplayteste-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestf",
+            "EpicApp": "FortniteDevPlaytestF",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestf-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestf-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestg",
+            "EpicApp": "FortniteDevPlaytestG",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestg-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestg-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytesth",
+            "EpicApp": "FortniteDevPlaytestH",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytesth-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytesth-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytesti",
+            "EpicApp": "FortniteDevPlaytestI",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytesti-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytesti-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestj",
+            "EpicApp": "FortniteDevPlaytestJ",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestj-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestj-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestk",
+            "EpicApp": "FortniteDevPlaytestK",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestk-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestk-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestl",
+            "EpicApp": "FortniteDevPlaytestL",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestl-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestl-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestm",
+            "EpicApp": "FortniteDevPlaytestM",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestm-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestm-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestn",
+            "EpicApp": "FortniteDevPlaytestN",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestn-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestn-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytesto",
+            "EpicApp": "FortniteDevPlaytestO",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytesto-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytesto-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestp",
+            "EpicApp": "FortniteDevPlaytestP",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestp-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestp-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestq",
+            "EpicApp": "FortniteDevPlaytestQ",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestq-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestq-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestr",
+            "EpicApp": "FortniteDevPlaytestR",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestr-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestr-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytests",
+            "EpicApp": "FortniteDevPlaytestS",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytests-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytests-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestt",
+            "EpicApp": "FortniteDevPlaytestT",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestt-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestt-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestu",
+            "EpicApp": "FortniteDevPlaytestU",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestu-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestu-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestv",
+            "EpicApp": "FortniteDevPlaytestV",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestv-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestv-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestw",
+            "EpicApp": "FortniteDevPlaytestW",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestw-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestw-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestx",
+            "EpicApp": "FortniteDevPlaytestX",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestx-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestx-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytesty",
+            "EpicApp": "FortniteDevPlaytestY",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytesty-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytesty-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "devplaytestz",
+            "EpicApp": "FortniteDevPlaytestZ",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-devplaytestz-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-devplaytestz-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "eggshell",
+            "EpicApp": "FortniteEggshell",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-eggshell-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-eggshell-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "events",
+            "EpicApp": "FortniteEvents",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-events-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-events-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-events-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "extqadevtesting",
+            "EpicApp": "FortniteExtQADevTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-extqadevtesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-extqadevtesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "extqareleasetesting",
+            "EpicApp": "FortniteExtQAReleaseTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-extqareleasetesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-extqareleasetesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "extqareleasetestingb",
+            "EpicApp": "FortniteExtQAReleaseTestingB",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-extqareleasetestingb-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-extqareleasetestingb-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "extqauetesting",
+            "EpicApp": "FortniteExtQAUETesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-extqauetesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-extqauetesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "extqauetestingb",
+            "EpicApp": "FortniteExtQAUETestingB",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-extqauetestingb-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-extqauetestingb-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "flames",
+            "EpicApp": "FortniteFlames",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-flames-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-flames-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-flames-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "flapper",
+            "EpicApp": "FortniteFlapper",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-flapper-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-flapper-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-flapper-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "floss",
+            "EpicApp": "FortniteFloss",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-floss-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-floss-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-floss-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "hatchling",
+            "EpicApp": "FortniteHatchling",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-hatchling-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-hatchling-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "havoc",
+            "EpicApp": "FortniteHavoc",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-havoc-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-havoc-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-havoc-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "hotrod",
+            "EpicApp": "FortniteHotrod",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-hotrod-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-hotrod-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "hyperion",
+            "EpicApp": "FortniteHyperion",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-hyperion-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-hyperion-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "ioscert",
+            "EpicApp": "FortniteIOSCert",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-ioscert-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-ioscert-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "junodaily",
+            "EpicApp": "FortniteJunoDaily",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-junodaily-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-junodaily-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "junoqa",
+            "EpicApp": "FortniteJunoQA",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-junoqa-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-junoqa-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "junoreleasedaily",
+            "EpicApp": "FortniteJunoReleaseDaily",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-junoreleasedaily-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-junoreleasedaily-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "junostable",
+            "EpicApp": "FortniteJunoStable",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-junostable-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-junostable-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-junostable-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "livebroadcasting",
+            "EpicApp": "FortniteLiveBroadcasting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-livebroadcasting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-livebroadcasting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "livetesting",
+            "EpicApp": "FortniteLiveTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-livetesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-livetesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "loadtest",
+            "EpicApp": "FortniteLoadTest",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-loadtest-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-loadtest-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "loctesting",
+            "EpicApp": "FortniteLocTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-loctesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-loctesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "lucky",
+            "EpicApp": "FortniteLucky",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-lucky-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-lucky-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-lucky-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "mako",
+            "EpicApp": "FortniteMako",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-mako-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-mako-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-mako-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "mobilecert",
+            "EpicApp": "FortniteMobileCert",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-mobilecert-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-mobilecert-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "mojodaily",
+            "EpicApp": "FortniteMojoDaily",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-mojodaily-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-mojodaily-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "mojoqa",
+            "EpicApp": "FortniteMojoQA",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-mojoqa-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-mojoqa-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "mojoreleasedaily",
+            "EpicApp": "FortniteMojoReleaseDaily",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-mojoreleasedaily-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-mojoreleasedaily-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "mojostable",
+            "EpicApp": "FortniteMojoStable",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-mojostable-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-mojostable-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "partners",
+            "EpicApp": "FortnitePartners",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-partners-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-partners-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-partners-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "partnersstable",
+            "EpicApp": "FortnitePartnersStable",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-partnersstable-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-partnersstable-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "predeploya",
+            "EpicApp": "FortnitePredeployA",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-predeploya-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-predeploya-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "predeployb",
+            "EpicApp": "FortnitePredeployB",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-predeployb-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-predeployb-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "preview",
+            "EpicApp": "FortnitePreview",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-preview-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-preview-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-preview-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "publictest",
+            "EpicApp": "FortnitePublicTest",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-publictest-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-publictest-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-publictest-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "reddailymaintesting",
+            "EpicApp": "FortniteRedDailyMainTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-reddailymaintesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-reddailymaintesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "redextqadevtesting",
+            "EpicApp": "FortniteRedExtQADevTesting",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-redextqadevtesting-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-redextqadevtesting-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "releaseplaytest",
+            "EpicApp": "FortniteReleasePlaytest",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-releaseplaytest-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-releaseplaytest-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "releaseplaytestb",
+            "EpicApp": "FortniteReleasePlaytestB",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-releaseplaytestb-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-releaseplaytestb-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "vkdaily",
+            "EpicApp": "FortniteVKDaily",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-vkdaily-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-vkdaily-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "vkqa",
+            "EpicApp": "FortniteVKQA",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-vkqa-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-vkqa-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "vkreleasedaily",
+            "EpicApp": "FortniteVKReleaseDaily",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-vkreleasedaily-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-vkreleasedaily-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        },
+        {
+            "AppId": "vkstable",
+            "EpicApp": "FortniteVKStable",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "DedicatedServer": "fngw-mcp-ds-vkstable-prod.ol.epicgames.com",
+                        "Default": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "IOS": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "Linux": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "Mac": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "PS4": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "PS5": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "Switch": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "Windows": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "XB1": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "XSX": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com",
+                        "XboxOneGDK": "fngw-mcp-gc-vkstable-prod.ol.epicgames.com"
+                    }
+                }
+            ]
+        }
+    ]
+}

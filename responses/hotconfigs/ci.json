@@ -1,0 +1,28 @@
+{
+    "HotConfigData": [
+        {
+            "AppId": "ci",
+            "EpicApp": "FortniteCI",
+            "Modules": [
+                {
+                    "ModuleName": "GameServiceMcp",
+                    "Endpoints": {
+                        "Android": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "DedicatedServer": "fngw-mcp-ds-ci.ol.epicgames.net",
+                        "Default": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "IOS": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "Linux": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "Mac": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "PS4": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "PS5": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "Switch": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "Windows": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "XB1": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "XSX": "fngw-mcp-gc-ci.ol.epicgames.net",
+                        "XboxOneGDK": "fngw-mcp-gc-ci.ol.epicgames.net"
+                    }
+                }
+            ]
+        }
+    ]
+}

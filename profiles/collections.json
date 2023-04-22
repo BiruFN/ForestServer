@@ -1,0 +1,18 @@
+{
+    "changeType": "fullProfileUpdate",
+    "profile": {
+        "_id": "forestserver",
+        "created": "2023-01-01T00:00:00.000Z",
+        "updated": "2023-01-01T00:00:00.000Z",
+        "rvn": 1,
+        "wipeNumber": 1,
+        "accountId": "forestserver",
+        "profileId": "collections",
+        "version": "forestserver",
+        "items": {},
+        "stats": {
+            "attributes": {}
+        },
+        "commandRevision": 1
+    }
+}
